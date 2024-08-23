@@ -1,5 +1,5 @@
 ## <a id="design"></a>Design
-![rabbitcmdbanner](https://github.com/user-attachments/assets/8a0e6488-64d0-427f-824b-b950c2278041)
+![rabbitcmd](https://github.com/user-attachments/assets/427542c5-aff6-40d7-b1ed-30fb0b693df3)
 
 
 ## <a id="interface"></a>Interface
